@@ -5,7 +5,7 @@ This page describes lists extensions used in the implementation guide.
 
 The following optional extensions are defined for the PacificPatient and PacificPractitioner profiles: 
 
-[PacificClan](StructureDefinition-fiji-clan.html)  
+[FijiClanAffiliation](StructureDefinition-fiji-clan-affiliation.html)  
 
 #### Extensions used for Address
 

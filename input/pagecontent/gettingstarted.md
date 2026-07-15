@@ -107,6 +107,7 @@ To create or derive another IG from this content, you will need to use a text ed
 * [FHIR Shorthand repository for this IG](https://github.com/healthinfoservices/fiji-fhir-ig)
 * [FHIR Shorthand FSH](https://build.fhir.org/ig/HL7/fhir-shorthand/overview.html)
 * [FHIR Shorthand training][fsh-url]
+* [Guidance for FHIR IG Creation](https://build.fhir.org/ig/FHIR/ig-guidance/best-practice.html#pages-and-organization)
 * [HealthInfoServices - Australia](https://healthinfoservices.net)
 * [Daniel Foulkes][linkedin-df-url]
 
