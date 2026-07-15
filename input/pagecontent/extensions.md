@@ -5,10 +5,10 @@ This page describes lists extensions used in the implementation guide.
 
 The following optional extensions are defined for the PacificPatient and PacificPractitioner profiles: 
 
-[PacificClan](StructureDefinition-pacific-clan.html)  
+[PacificClan](StructureDefinition-fiji-clan.html)  
 
 #### Extensions used for Address
 
 The following optional extensions are defined for the PacificAddress data type profile:  
-[PacificAddressVillage](StructureDefinition-pacific-address-village.html)  
-[PacificAddressIsland](StructureDefinition-pacific-address-island.html)  
+[FijiAddressVillage](StructureDefinition-fiji-address-village.html)  
+[FijiAddressIsland](StructureDefinition-fiji-address-island.html)  

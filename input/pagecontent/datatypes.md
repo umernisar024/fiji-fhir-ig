@@ -1,8 +1,8 @@
 This page describes data type profiles used in this implementation guide.
 
-### Pacific HumanName
+### Fiji HumanName
 
-The Pacific Human Name profile defines naming conventions commonly used across Pacific countries.
+The Fiji Human Name profile defines commonly used naming conventions.
 
 Support for:
 - Absence of family names (e.g., in some cultures where individuals may have only given names)
@@ -13,39 +13,39 @@ Support for:
 
 #### Structure Definition  
 
-[PacificHumanName](StructureDefinition-pacific-humanname.html)
+[FijiHumanName](StructureDefinition-fiji-humanname.html)
 
-#### Pacific Name Usage  
+#### Fiji Name Usage  
 
 This datatype profile is intended for:
 
-- PacificPatient.name
-- PacificPractitioner.name
-- PacificRelatedPerson.name
+- FijiPatient.name
+- FijiPractitioner.name
+- FijiRelatedPerson.name (FijiRelatedPerson is yet to be profiled)
 
-### Pacific Address  
+### Fiji Address  
 
-The Pacific Address profile supports a range of address formats commonly used in Pacific jurisdictions.
+The Fiji Address profile supports a range of address formats commonly used in Fiji jurisdictions.
 
-The PacificAddress profile designed for Pacific nations where addresses are commonly descriptive and village-based rather than street-based.
+The FijiAddress profile supports addresses that are commonly descriptive and village-based rather than street-based.
 This profile includes commonly required extensions, and general usage guidance.
-Each Pacific Nation adopting this profile should further specify mappings of administrative hierarchies to the specific address fields and provides examples for the IG.
+Need to further specify mappings of administrative hierarchies to the specific address fields and provides examples for the IG.
 
 
 #### Structure and Extensions  
 
-[PacificAddress](StructureDefinition-pacific-address.html)
+[FijiAddress](StructureDefinition-fiji-address.html)
 
 This includes optional extensions for:  
-[PacificAddressVillage](StructureDefinition-pacific-address-village.html)  
-[PacificAddressIsland](StructureDefinition-pacific-address-island.html)  
+[FijiAddressVillage](StructureDefinition-fiji-address-village.html)  
+[FijiAddressIsland](StructureDefinition-fiji-address-island.html)  
 
 
-#### Pacific Address Usage  
+#### Fiji Address Usage  
 
 This datatype profile is intended for:
 
-- PacificPatient.address
-- PacificPractitioner.address
-- PacificOrganization.address
+- FijiPatient.address
+- FijiPractitioner.address
+- FijiOrganization.address
 

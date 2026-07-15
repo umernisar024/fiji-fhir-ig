@@ -1,4 +1,4 @@
-This page provides information for developers and implementers wishing to download and use the Fiji/Pacific Core Implementation Guide artifacts.
+This page provides information for developers and implementers wishing to download and use the Fiji Core Implementation Guide artifacts.
 
 TODO:  Details below are example only, these need to be adjusted to match the reality of the distribution.
 
@@ -6,17 +6,17 @@ TODO:  Details below are example only, these need to be adjusted to match the re
 
 | Item          | Value                                |
 | ------------- | ------------------------------------ |
-| Package ID    | `hl7.fhir.uv.pacific.core`              |
+| Package ID    | `hl7.fhir.uv.fiji.core`              |
 | Version       | `0.2.0-ci-build`                       |
 | FHIR Version  | `4.0.1 (R4)`                         |
-| Canonical URL | `https://fijiig.github.io/fiji-pacific-ig` |
+| Canonical URL | `https://fijiig.github.io/fiji-fhir-ig` |
 
 ### NPM Package
 
 The complete implementation guide is distributed as an NPM package:
 
 ```text
-hl7.fhir.uv.pacific.core#??? (not yet available)
+hl7.fhir.uv.fiji.core#??? (not yet available)
 ```
 
 The package contains:
@@ -33,7 +33,7 @@ The package may be used with the HL7 FHIR Validator:
 
 ```bash
 java -jar validator.jar resource.json \
-  -ig hl7.fhir.uv.pacific.core
+  -ig hl7.fhir.uv.fiji.core
 ```
 
 ### Source Repository
@@ -48,7 +48,7 @@ The source repository contains:
 Repository:
 
 ```text
-https://github.com/FijiIG/fiji-pacific-ig.git
+https://github.com/FijiIG/fiji-fhir-ig.git
 ```
 
 ## Continuous Integration Build

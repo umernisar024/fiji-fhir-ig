@@ -23,7 +23,7 @@ To setup and deploy the IG, ensure that you have the pre-requisite software inst
 1. Create or go to a folder that you will use for working with the FSH code
 2. Clone this repository by executing:
   ```sh
-  git clone https://github.com/healthinfoservices/fiji-pacific-ig.git
+  git clone https://github.com/healthinfoservices/fiji-fhir-ig.git
   ```
 3. Install the FHIR packages listed in the dependencies section of the sushi-config.yaml file:
   ```sh
@@ -104,7 +104,7 @@ To create or derive another IG from this content, you will need to use a text ed
   ```
 
 ### References and Acknowledgements
-* [FHIR Shorthand repository for this IG](https://github.com/healthinfoservices/pacific-base-ig)
+* [FHIR Shorthand repository for this IG](https://github.com/healthinfoservices/fiji-fhir-ig)
 * [FHIR Shorthand FSH](https://build.fhir.org/ig/HL7/fhir-shorthand/overview.html)
 * [FHIR Shorthand training][fsh-url]
 * [HealthInfoServices - Australia](https://healthinfoservices.net)
