@@ -21,6 +21,8 @@ This guide is intended for:
 * Clinical/Technical Advisors and Working Groups
 * Vendors
 
+### Design & Decision Documents
+* [Document Index](https://github.com/FijiIG/fiji-fhir-ig/blob/main/docs/index.md)
 
 ### Getting Started, Contributions and Feedback
 
