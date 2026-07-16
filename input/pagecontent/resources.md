@@ -6,6 +6,7 @@ This page describes constraints and usage of FHIR Resource profiles used in this
 * [FijiPractitioner](StructureDefinition-fiji-practitioner.html)  
 * [FijiPractitionerRole](StructureDefinition-fiji-practitioner-role.html)  
 * [FijiOrganization](StructureDefinition-fiji-organization.html)  
+* [FijiEncounter](StructureDefinition-fiji-encounter.html)  
 
 #### Clinical Profiles
 
